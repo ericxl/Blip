@@ -9,12 +9,12 @@
 #include <stdio.h>
 #include "String.h"
 #include "Parse.h"
-#include "SymbolTable.h"
+
 
 #ifndef ParseNode_h
 #define ParseNode_h
 
-extern SymbolTable* symbolTable;
+extern class SymbolTable* symbolTable;
 class ParseNode{
 public:
     

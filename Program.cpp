@@ -1,5 +1,7 @@
 #include <cassert>
 #include "Program.h"
+#include "Statement.h"
+#include "SymbolTable.h"
 
 #define DEFAULT_CAPACITY  1
 

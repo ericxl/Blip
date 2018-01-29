@@ -6,8 +6,7 @@
 //  Copyright © 2015 Apprilo. All rights reserved.
 //
 #include <stdio.h>
-#include "String.h"
-#include "Project10.h"
+#include "BlipProgram.h"
 
 int main(int argc, char* argv[]) {
 

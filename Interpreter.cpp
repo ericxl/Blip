@@ -8,6 +8,11 @@
 
 #include "Interpreter.h"
 
+#include "String.h"
+#include "SymbolTable.h"
+#include "Statement.h"
+#include "Program.h"
+
 
 Interpreter::Interpreter() {
 }

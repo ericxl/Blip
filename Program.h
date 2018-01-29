@@ -1,10 +1,12 @@
 
 #include "String.h"
-#include "Statement.h"
+
 #ifndef _Program_h
 #define _Program_h
 
 #define SUPPORTED_RECURSIONS 4096
+
+class Statement;
 
 typedef Statement* StatementPtr;
 

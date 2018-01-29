@@ -10,6 +10,7 @@
 
 #ifndef SymbolTable_h
 #define SymbolTable_h
+
 #define TABLE_SIZE 4096
 
 enum SymbolError {

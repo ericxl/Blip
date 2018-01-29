@@ -6,10 +6,11 @@
 //  Copyright © 2015 Apprilo. All rights reserved.
 //
 
-#ifndef Project10_h
-#define Project10_h
+#ifndef BlipProgram_h
+#define BlipProgram_h
 
 #include "Interpreter.h"
+#include "SymbolTable.h"
 
 SymbolTable* symbolTable = nullptr;
 
@@ -18,4 +19,4 @@ void run() {
     interpreter.interpret();
 }
 
-#endif /* Project10_h */
+#endif /* BlipProgram_h */

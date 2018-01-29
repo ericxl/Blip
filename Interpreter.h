@@ -6,15 +6,10 @@
 //  Copyright © 2015 Apprilo. All rights reserved.
 //
 
-#include "String.h"
-#include "SymbolTable.h"
-#include "Statement.h"
-#include "Program.h"
-
 #ifndef Interpreter_h
 #define Interpreter_h
 
-extern SymbolTable* symbolTable;
+extern class SymbolTable* symbolTable;
 
 class Interpreter {
     

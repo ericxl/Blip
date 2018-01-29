@@ -8,6 +8,7 @@
 
 #include "ParseNode.h"
 #include "Program.h"
+#include "SymbolTable.h"
 #include "Interpreter.h"
 ParseNode::ParseNode() {
     name = "";
