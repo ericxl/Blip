@@ -16,3 +16,4 @@ This project provides an interpreter for the Blip programming language.
 
 ### Usage
     blip <blip_program
+    blip <tests/test1.blip
