@@ -1,4 +1,4 @@
-## Blip Language Interpreter
+# Blip Language Interpreter
 
 > An interpreter of Blip programming language.
 
@@ -13,7 +13,7 @@ This project provides an interpreter for the Blip programming language.
 
 ### Build
 
-To build, simply run the following command:
+To build, simply run the following command
     make blip
 
 ### Usage
