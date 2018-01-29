@@ -12,8 +12,6 @@ the "tests" directory.
 This project provides an interpreter for the Blip programming language.
 
 ### Build
-
-To build, simply run the following command
     make blip
 
 ### Usage
